@@ -13,8 +13,11 @@ This tool is an Internet reconnector for Modem ADB V2220. It uses the configurat
 ## Configuration
 
 modemAddress=IP-Adress of your modem
+
 reconnectWaitInMs=Time between Internet connection disabling and enabling
+
 username=Username of webapplikation username of modem
+
 passwort=Password of webapplikation password of modem
 
 ## Supporting hardware firmware
